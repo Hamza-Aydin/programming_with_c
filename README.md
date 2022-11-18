@@ -1,1 +1,1 @@
-# programming_with_c
+# C dili ile yaptığım çalışmalar
